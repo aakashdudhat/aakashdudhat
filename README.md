@@ -3,12 +3,11 @@
 <h1 align="center">Hi 👋, I'm Akash Dudhat</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashdudhat&label=Profile%20views&color=0e75b6&style=flat" alt="aakashdudhat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashdudhat" alt="aakashdudhat" /></a> </p>
-
+<img align="right" alt="image" width="400"src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="dhruvalgondaliya" />
 - 🔭 I’m currently working on **MERN Stack Developer**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvalgondaliya&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvalgondaliya" /> </p>
 - 👨‍💻 All of my projects are available at [https://aakashdudhat.github.io/Portfolio/](https://aakashdudhat.github.io/Portfolio/)
 
 - 📫 How to reach me **dudhataakash7@gmail.com**
