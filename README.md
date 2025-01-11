@@ -1,3 +1,5 @@
+![akashdudhat](https://github.com/dhruvalgondaliya/dhruvalgondaliya/blob/main/Dhruval_temp.png)
+
 <h1 align="center">Hi 👋, I'm Akash Dudhat</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
