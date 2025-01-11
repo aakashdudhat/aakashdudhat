@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Developer**
 
-- 👨‍💻 All of my projects are available at [xyz.netlify.app](xyz.netlify.app)
+- 👨‍💻 All of my projects are available at [https://aakashdudhat.github.io/Portfolio/](https://aakashdudhat.github.io/Portfolio/)
 
 - 📫 How to reach me **dudhataakash7@gmail.com**
 
